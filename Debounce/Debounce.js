@@ -1,9 +1,14 @@
 const debounce = (cb, time) => {
 
   // Checking the arguments passed to the function
-  if (time === undefined) return throwError("time is undefined");
-  if (time < 0) return throwError("time cannot be negative");
-  if (typeof cb !== "function") return throwError("callBack is not a function");
+if (time === undefined) throw new Error("Please provide a valid time value.");
+if (time < 0)
+  throw new Error("Time cannot be negative. Please enter a positive value.");
+if (typeof cb !== "function")
+  throw new Error(
+    "The callback parameter should be a function. Make sure you pass a valid callback function."
+  );
+
 
   // Initializing the variables
   let timer;
