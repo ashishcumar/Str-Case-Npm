@@ -5,6 +5,10 @@ debounce-throttle is a lightweight npm package designed to simplify and enhance 
 
 Event handling in JavaScript often requires careful management to balance responsiveness with efficiency. Debouncing and throttling are two techniques commonly used to achieve this balance.
 
+```bash
+npm install debounce-throttling
+```
+
 ### Debouncing
 Debouncing is a technique used to ensure that a function is not called repeatedly within a short period of time. It's particularly useful for scenarios where you want to wait for a pause in user input before taking action, such as autocomplete suggestions or search input.
 
