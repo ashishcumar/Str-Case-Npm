@@ -1,4 +1,4 @@
-# debounce-throttle
+# debounce-throttling
 
 ## Description
 debounce-throttle is a lightweight npm package designed to simplify and enhance event handling in JavaScript applications. With this package, developers can effortlessly implement debouncing and throttling functionalities to optimize performance and improve user experience.
@@ -18,7 +18,7 @@ Throttling is a technique used to limit the rate at which a function can be call
 - **Simplicity:** Easy-to-use API for integrating debounce and throttle functionalities into your projects.
 
 ## How to Use
-1. Install the package via npm: <<Link>>
+1. Install the package via npm: npm install debounce-throttling
 2. Import the module into your JavaScript file:
 ```javascript
 // For Vanila Js and Node Js
