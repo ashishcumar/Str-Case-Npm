@@ -1,0 +1,32 @@
+{
+  "name": "debounce-throttle",
+  "version": "1.0.0",
+  "description": "debounce-throttle is a lightweight npm package designed to simplify and enhance event handling in JavaScript applications. With this package, developers can effortlessly implement debouncing and throttling functionalities to optimize performance and improve user experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishcumar/Debounce-Throttle-Npm.git"
+  },
+  "keywords": [
+    "Debounce",
+    "Throttle",
+    "Event",
+    "handling",
+    "Optimization",
+    "Performance",
+    "Efficiency",
+    "JavaScript",
+    "Input",
+    "Async",
+    "Debounce"
+  ],
+  "author": "Ashish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishcumar/Debounce-Throttle-Npm/issues"
+  },
+  "homepage": "https://github.com/ashishcumar/Debounce-Throttle-Npm#readme"
+}
