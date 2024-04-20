@@ -1,7 +1,7 @@
 # debounce-throttling
 
 ## Description
-debounce-throttle is a lightweight npm package designed to simplify and enhance event handling in JavaScript applications. With this package, developers can effortlessly implement debouncing and throttling functionalities to optimize performance and improve user experience.
+debounce-throttling is a lightweight npm package designed to simplify and enhance event handling in JavaScript applications. With this package, developers can effortlessly implement debouncing and throttling functionalities to optimize performance and improve user experience.
 
 Event handling in JavaScript often requires careful management to balance responsiveness with efficiency. Debouncing and throttling are two techniques commonly used to achieve this balance.
 
