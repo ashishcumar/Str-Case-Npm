@@ -33,7 +33,7 @@ import {debounce,throttle} from "debounce-throttle"
 
 // Code Snippets
 const debouncedFunction = debounce(yourFunction, durationToDebounce);
-const throttledFunction = throttle(yourFunction, durationToDebounce);
+const throttledFunction = throttle(yourFunction, durationToThrottle);
 ```
 
 ## Use Cases
