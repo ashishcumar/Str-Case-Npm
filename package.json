@@ -21,7 +21,9 @@
     "JavaScript",
     "Input",
     "Async",
-    "Debounce"
+    "Debounce",
+    "Rate limiting",
+    "Infinite scrolling"
   ],
   "author": "Ashish",
   "license": "MIT",
