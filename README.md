@@ -26,10 +26,10 @@ Throttling is a technique used to limit the rate at which a function can be call
 2. Import the module into your JavaScript file:
 ```javascript
 // For Vanila Js and Node Js
-const { debounce, throttle } = require('debounce-throttle');
+const { debounce, throttle } = require('debounce-throttling');
 
 // For React And Other Frameworks 
-import {debounce,throttle} from "debounce-throttle"
+import {debounce,throttle} from "debounce-throttling"
 
 // Code Snippets
 const debouncedFunction = debounce(yourFunction, durationToDebounce);
