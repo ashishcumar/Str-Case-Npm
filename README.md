@@ -1,5 +1,12 @@
 # debounce-throttling
 
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Use Cases](#use-cases)
+- [Error/Issue](#Error-/-Issue)
+
 ## Description
 debounce-throttling is a lightweight npm package designed to simplify and enhance event handling in JavaScript applications. With this package, developers can effortlessly implement debouncing and throttling functionalities to optimize performance and improve user experience.
 
@@ -47,6 +54,6 @@ const throttledFunction = throttle(yourFunction, durationToThrottle);
   - Window resizing: Avoid excessive recalculations of layout or styles by throttling window resize events, ensuring smoother user experience.
   - Mousemove events: Limit the frequency of actions triggered by mouse movement, such as updating tooltip positions or animating UI elements, for better performance.
 
-
-
+## Error / Issue
+- Got questions or facing any hurdles? Drop me an email at **Kumarashish87998@gmail.com** with **"Error || debounce-throttling"** as the subject, and I'll be your coding superhero! 🦸‍♂️💻
 
