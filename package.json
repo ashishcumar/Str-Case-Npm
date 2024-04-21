@@ -1,6 +1,6 @@
 {
   "name": "debounce-throttling",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "debounce-throttle is a lightweight npm package designed to simplify and enhance event handling in JavaScript applications. With this package, developers can effortlessly implement debouncing and throttling functionalities to optimize performance and improve user experience.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
