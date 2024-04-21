@@ -5,7 +5,7 @@
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Use Cases](#use-cases)
-- [Error/Issue](#Error-/-Issue)
+- [Error/Issue](#error--issue)
 
 ## Description
 debounce-throttling is a lightweight npm package designed to simplify and enhance event handling in JavaScript applications. With this package, developers can effortlessly implement debouncing and throttling functionalities to optimize performance and improve user experience.
