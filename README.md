@@ -165,3 +165,12 @@ const text = 'Hello World';
 const smallCapsText = toSmallCaps(text);
 console.log(smallCapsText); // Output: 'ʜᴇʟʟᴏ ᴡᴏʀʟᴅ'
 ```
+
+## Check out these other fantastic packages developed by Me:
+- **[Debounce Throttling](https://www.npmjs.com/package/debounce-throttling)** 🕒 - Smooth out your application's performance by managing function calls with debouncing and throttling techniques.
+  
+- **[LocalSafe](https://www.npmjs.com/package/localsafe)** 🔒 - Securely store sensitive data locally in the user's browser with encryption and other protective measures.
+  
+- **[Online Status JS](https://www.npmjs.com/package/online-status-js)** 🌐 - Keep track of your user's online status and enhance your application's real-time capabilities.
+
+🌟 Made with ❤️ by Ashish
