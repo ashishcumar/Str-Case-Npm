@@ -1,7 +1,7 @@
 {
-  "name": "debounce-throttling",
-  "version": "1.0.6",
-  "description": "debounce-throttle is a lightweight npm package designed to simplify and enhance event handling in JavaScript applications. With this package, developers can effortlessly implement debouncing and throttling functionalities to optimize performance and improve user experience.",
+  "name": "str-case",
+  "version": "0.0.0",
+  "description": "str-case is your go-to toolkit for hassle-free string casing formatting in JavaScript/TypeScript. With a suite of intuitive functions, you can effortlessly convert text between various casing styles, whether it's lowercase, UPPERCASE, Title Case, camelCase, snake_case, kebab-case, PascalCase, or even your custom styles!",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -10,29 +10,33 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashishcumar/Debounce-Throttle-Npm.git"
+    "url": "git+https://github.com/ashishcumar/Str-Case-Npm"
   },
   "keywords": [
-    "Debounce",
-    "Throttle",
-    "Event",
-    "handling",
-    "Optimization",
-    "Performance",
-    "Efficiency",
-    "JavaScript",
-    "Input",
-    "Async",
-    "Debounce",
-    "Rate limiting",
-    "Infinite scrolling"
+    "Javascript",
+    "React",
+    "Text transformation",
+    "String manipulation",
+    "Case converter",
+    "Text conversion",
+    "Casing changer",
+    "String formatting",
+    "Case conversion",
+    "Casing utilities",
+    "Text manipulation",
+    "String utilities",
+    "Text formatting",
+    "Case transformation",
+    "Case manipulation",
+    "Text processing",
+    "String casing"
   ],
   "author": "Ashish",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ashishcumar/Debounce-Throttle-Npm/issues"
+    "url": "https://github.com/ashishcumar/Str-Case-Npm/issues"
   },
-  "homepage": "https://github.com/ashishcumar/Debounce-Throttle-Npm#readme",
+  "homepage": "https://github.com/ashishcumar/Str-Case-Npm#readme",
   "devDependencies": {
     "@types/node": "^20.12.7",
     "tsup": "^8.0.2",
