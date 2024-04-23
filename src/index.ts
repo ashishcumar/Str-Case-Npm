@@ -1,2 +1,2 @@
 
-export * from "./str-case";
+export * from "./text-tweak";

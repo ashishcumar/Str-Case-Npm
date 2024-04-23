@@ -1,13 +1,13 @@
-# str-case
+# text-tweak
 
-str-case is a lightweight JavaScript/TypeScript package for effortless string casing formatting. With str-case, you can easily convert text between various casing styles such as lowercase, UPPERCASE, Title Case, camelCase, snake_case, kebab-case, PascalCase, and more.
+text-tweak is a lightweight JavaScript/TypeScript package for effortless string casing formatting. With text-tweak, you can easily convert text between various casing styles such as lowercase, UPPERCASE, Title Case, camelCase, snake_case, kebab-case, PascalCase, and more.
 
 ## Installation
 
-To install str-case, simply use npm:
+To install text-tweak, simply use npm:
 
 ```bash
-npm install str-case
+npm install text-tweak
 ```
 
 ## Key Features
@@ -26,9 +26,9 @@ npm install str-case
 
 ## How to Use
 
-To use the functions provided by the `str-case` package, follow these steps:
+To use the functions provided by the `text-tweak` package, follow these steps:
 
-1. Import the necessary functions from the `str-case` package:
+1. Import the necessary functions from the `text-tweak` package:
 
 ```javascript
 import {
@@ -45,7 +45,7 @@ import {
   toSpongeCase,
   toReverseCase,
   toSmallCaps
-} from 'str-case';
+} from 'text-tweak';
 
 ```
 
