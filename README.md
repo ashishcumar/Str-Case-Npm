@@ -34,7 +34,10 @@ To use the functions provided by the `text-tweak` package, follow these steps:
 import {
   toLowerCase,
   toUpperCase,
+  toTitleCase,
+  toSentenceCase,
   toCamelCase,
+  toSnakeCase,
   toKebabCase,
   toPascalCase,
   toConstantCase,
@@ -65,6 +68,24 @@ Converts a string to uppercase.
 const text = 'Hello World';
 const upperCaseText = toUpperCase(text);
 console.log(upperCaseText); // Output: 'HELLO WORLD'
+```
+
+### toTitleCase()
+Converts a string to camel case.
+
+```javascript
+const text = 'hello world';
+const camelCaseText = toCamelCase(text);
+console.log(camelCaseText); // Output: 'Hello World'
+```
+
+### toSentenceCase()
+Converts a string to camel case.
+
+```javascript
+const text = 'hello world';
+const camelCaseText = toCamelCase(text);
+console.log(camelCaseText); // Output: 'Hello world'
 ```
 
 ### toCamelCase()

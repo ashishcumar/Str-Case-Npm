@@ -157,9 +157,11 @@ function toSmallCaps(str: string) {
     .join("");
 }
 
+
 export {
   toLowerCase,
   toUpperCase,
+  toTitleCase,
   toSentenceCase,
   toCamelCase,
   toSnakeCase,
