@@ -1,6 +1,6 @@
 {
   "name": "text-tweak",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "text-tweak is your go-to toolkit for hassle-free string casing formatting in JavaScript/TypeScript. With a suite of intuitive functions, you can effortlessly convert text between various casing styles, whether it's lowercase, UPPERCASE, Title Case, camelCase, snake_case, kebab-case, PascalCase, or even your custom styles!",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
