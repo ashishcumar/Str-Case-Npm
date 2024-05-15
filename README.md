@@ -17,7 +17,7 @@ npm install text-tweak
 - Create engaging and consistent text formatting effortlessly.
 - Supports a variety of common and custom casing styles.
 
-## Why Choose CaseMaster
+## Why Choose text-tweak
 
 - Easy-to-use functions for quick and efficient string casing transformations.
 - Versatile package suitable for a wide range of projects.
